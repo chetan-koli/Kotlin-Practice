@@ -1,5 +1,6 @@
 package project.users.kotlinpractice
 
+//This is array list code
 fun main() {
     var arr = arrayOf("chetan","sagar","best");
     val data = if ("sagar" in arr){
